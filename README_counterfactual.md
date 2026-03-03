@@ -1,6 +1,6 @@
 # 🔄 Counterfactual Explanations — Actionable Diabetes Risk Reduction
 
-A Machine Learning project that generates counterfactual explanations — finding the smallest changes to a patient's actionable features that would flip their predicted diabetes risk from high to low. This is **Project 8 of 10** in my ML learning roadmap toward computational biology research.
+A Machine Learning project that generates counterfactual explanations to find the smallest changes to a patient's actionable features that would flip their predicted diabetes risk from high to low. This is **Project 8 of 10** in my ML learning roadmap toward computational biology research.
 
 ---
 
